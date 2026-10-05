@@ -135,9 +135,9 @@ All public profile content lives in [`profile.config.json`](./profile.config.jso
 ```json
 {
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder"
+    "name": "Vannn",
+    "username": "Vannn",
+    "headline": "Engineer & Software Engineer"
   },
   "appearance": {
     "palette": "signal"
