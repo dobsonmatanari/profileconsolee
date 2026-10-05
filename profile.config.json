@@ -1,12 +1,12 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Vannn",
+    "username": "Vannn",
+    "headline": "Engineer & Software Engineer",
+    "affiliation": "Cyber Two Tower",
+    "location": "Tanggerang, Indonesia",
+    "status": "Work",
     "about": [
       "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
       "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
